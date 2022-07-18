@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Build Church Website
 permalink: /
 section: home
 intro_paragraph: >
@@ -11,6 +11,4 @@ intro_paragraph: >
   pages and posts, and a continuous deployment workflow.
 ---
 
-# A
 
-## B
