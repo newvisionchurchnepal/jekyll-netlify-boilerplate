@@ -3,7 +3,9 @@ layout: home
 title: Build Church Website
 permalink: /
 section: home
-intro_paragraph: 
+intro_paragraph: >
+
+                   To make a web site from a template store in a github.com repository host in netlify.com
 ---
 
 
