@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include hero.html %}
-
 <h2>{{ page.title }}</h2>
 
   {% include page-intro.html %}
 
-  {{ content | safe }}
+  {{ content }}
+
+{% include hero.html %}
 
   <!-- <section>
 
