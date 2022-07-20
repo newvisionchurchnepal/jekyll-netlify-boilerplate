@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Build Church Website
 permalink: /
 intro_paragraph: >
