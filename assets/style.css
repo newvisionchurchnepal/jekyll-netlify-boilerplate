@@ -18,7 +18,7 @@ body {
     color: white; /* ADD THIS LINE */
     
     /* Background styles */
-    background-image: url(/assets/home_cn.jpg);
+    background-image: url(assets/home_cn.jpg);
     background-size: cover;
     background-position: center 80px;
     background-repeat: no-repeat;
@@ -43,64 +43,4 @@ body {
     margin-bottom: 0.5em;
 }
 
-.contact {
-    /* Sizing 
-    width: 100vw;
-    height: 100vh; */
-    
-    /* Flexbox stuff */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    /* Text styles */
-    text-align: center;
-    color: white; /* ADD THIS LINE */
-    
-    /* Background styles */
-    background-image: url(../img/contact.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
 
-.contact h2 {
-    /* Text styles */
-    font-size: 3em;
-    
-    /* Margins */
-    margin-top: 30px;
-    margin-bottom: 0.5em;
-}
-
-.tutorial {
-    /* Sizing 
-    width: 100vw;
-    height: 100vh; */
-    
-    /* Flexbox stuff */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-    /* Text styles */
-    text-align: center;
-    color: white; /* ADD THIS LINE */
-    
-    /* Background styles */
-    background-image: url(../img/contact.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-.tutorial h2 {
-    /* Text styles */
-    font-size: 3em;
-    
-    /* Margins */
-    margin-top: 30px;
-    margin-bottom: 0.5em;
-}
