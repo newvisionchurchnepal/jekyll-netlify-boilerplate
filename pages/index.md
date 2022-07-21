@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Build Church Website
+layout: home
+title: Buildss Church Website
 permalink: /
 intro_paragraph: >
 
