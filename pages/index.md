@@ -1,6 +1,7 @@
 ---
 layout: default1
 title:
+permalink: /
 ---
 
 #### Intention
