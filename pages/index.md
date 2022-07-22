@@ -4,6 +4,7 @@ title:
 permalink: /
 ---
 <div markdown="1">
+
 #### Intention
 
 The intention is to build a church site from a github.com repository and hosting in netlify.com. 
@@ -29,4 +30,5 @@ There are will be a introdution on data analysis, an important concept in digita
 #### Contact
 
 cheejoen@gmail.com
+
 </div>
