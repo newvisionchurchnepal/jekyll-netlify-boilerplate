@@ -1,9 +1,7 @@
 ---
 layout: default1
-title: 
-permalink: /
+title:
 ---
-<div markdown="1">
 
 #### Intention
 
@@ -30,5 +28,3 @@ There are will be a introdution on data analysis, an important concept in digita
 #### Contact
 
 cheejoen@gmail.com
-
-</div>
