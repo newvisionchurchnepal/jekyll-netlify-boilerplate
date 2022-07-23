@@ -1,7 +1,9 @@
 ---
-layout: contact
+layout: page
 title: Contact
 permalink: /contact
+---
+
 section: contact
 intro_paragraph: |-
 
@@ -10,6 +12,5 @@ intro_paragraph: |-
   submissions, and saves them in your Netlify account where you can optionally
   set up notifications. Each submission is passed through a spam filter and if
   flagged, will display a CAPTCHA challenge to the user.
----
 
 **Send us a message**
