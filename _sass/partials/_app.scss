@@ -27,7 +27,7 @@ body > * {
 header {
   grid-column: full;
   display: grid;
-  background-color: #C6AEC7; /* $brand-color; */
+  background-color: #B6B6B4; /* $brand-color; */
   padding: 10px; /* 2rem; */
   @media screen and (min-width: $screen-sm-min) {
     grid-template-columns: 1fr auto;
