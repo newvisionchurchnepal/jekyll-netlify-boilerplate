@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Contact
+title: 
 permalink: /contact
 ---
 
-#### contact info
+### Contact
+
+#### Email:cheejon@yahoo.com
+
+#### W
