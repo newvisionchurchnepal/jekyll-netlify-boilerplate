@@ -4,4 +4,6 @@ title: Tutorial
 permalink: /tutorial
 ---
 
-### Tutorial info
+### Table of Contents
+
+[Preparation}(/tutorial/preparation)
