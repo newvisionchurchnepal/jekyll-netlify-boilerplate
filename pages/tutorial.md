@@ -6,4 +6,4 @@ permalink: /tutorial
 
 ### Table of Contents
 
-[Preparation}(/tutorial/preparation)
+[Preparation](/tutorial/preparation)
