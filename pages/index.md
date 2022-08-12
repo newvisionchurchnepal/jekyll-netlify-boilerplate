@@ -4,28 +4,19 @@ title:
 permalink: /
 ---
 
-#### Intention
+To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
-The intention is to build a church site from a github.com repository and hosting in netlify.com. 
+The guideline like this: select a template, edit in github.com and host in netlify.com 
 
-Follow the steps you will get a functional,static pages ,no databasse website.
+What kind of template should we choose, in my mind there are some guidlines:
 
-> **Declaimer:** The website contents and its stucture are voluntary work, free of charge. The Domain Name is another institution to make it functional, for example, this site, if you use 'buildchurchsite.netlify.app',it is free, if you want to use 'buildchurchsite.org', you have to pay to that institution to buy Domain Name, actually it is lease the Domain Name, about USD 10 each year, we can assist, again: we will not take advantage and comission from Domain Name.
+- responsive, automaticly layout change between mobile and desktop, good for mobile phone user.
+- vertical layout, like an app, good for mobile phone user.
+- deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
-##### Tutorial
+Follow the [Tutorial]() if you want to deploy by yourself.
 
-Description on how to make the website,there are common steps including github and netlify and Analytics account sign up,some other steps are netlify website building.
+We will introduce data and data analyze according our understanding, that is foundation to use website.
 
-The pastor owns the church website, once the initial assist completed, the church website will be handled to pastor. 
+We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
 
-The [tutorial section](/tutorial) contain all description on machanic and how to make website.
-
-##### Data
-
-Introduce data analytics, take Google Analytics as example.
-
-There are will be a introdution on data analysis, an important concept in digital  measurement also in tutorial section. 
-
-#### Contact
-
-cheejoen@gmail.com
