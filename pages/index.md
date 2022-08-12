@@ -11,8 +11,11 @@ The guideline like this: select a template, edit in github.com and host in netli
 As far as I understand,there are two use cases for website:
 
 1. information
+
 the church service for local people,the photoes goes to Facebook group and leave a link on website,the website contents mainly for outside stranger,like fund rising.All website are in this stage, there are home page and contact page along with outside Facebook group link.
+
 2. evangelist
+
 no matter with or without website can stop you preach, evanglist means event centric and the church move to spreading both offline and online.
 
 What kind of template should we choose, in my mind there are some guidlines:
