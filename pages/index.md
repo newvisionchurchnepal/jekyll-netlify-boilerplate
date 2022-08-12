@@ -14,6 +14,7 @@ What kind of template should we choose, in my mind there are some guidlines:
 - vertical layout, like an app, good for mobile phone user.
 - deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
+
 Follow the [Tutorial]() if you want to deploy by yourself.
 
 We will introduce data and data analyze according our understanding, that is foundation to use website.
