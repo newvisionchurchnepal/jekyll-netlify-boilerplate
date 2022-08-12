@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 
+title: Tutorial
 permalink: /tutorial
 ---
 
-### Tutorial
 
-#### Table of Contents
 
 [Preparation](/tutorial/preparation)
