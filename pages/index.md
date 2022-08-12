@@ -21,7 +21,9 @@ no matter with or without website can stop you preach, evanglist means event cen
 What kind of template should we choose, in my mind there are some guidlines:
 
 1). responsive, automaticly layout change between mobile and desktop, good for mobile phone user.
+
 2). vertical layout, like an app, good for mobile phone user.
+
 3). deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
 
