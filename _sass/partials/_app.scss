@@ -8,7 +8,7 @@
 // the body element is our primary layout grid
 body {
   height: 100vh;
-  display: grid;
+  /* display: grid; */
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
