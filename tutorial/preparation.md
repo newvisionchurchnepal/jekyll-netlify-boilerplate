@@ -6,4 +6,4 @@ permalink: /tutorial/preparation
 
 ### ABC
 
-![folk button](/tutorial/img/folkbutton.png) 
+![folk button](/tutorial/img/folkbotton.png) 
