@@ -46,13 +46,13 @@ header > h1 {
   a:visited {
     text-decoration: none;
     border: 0;
-    color: #000000; /* white; */
+    color: white;
     @media screen and (min-width: $screen-sm-min) {
       padding: 1rem;
     }
   }
   a:hover {
-    color: #000000 /* white; */
+    color: white;
   }
 }
 
@@ -72,7 +72,7 @@ header > nav {
       }
       a,
       a:visited {
-        color: white;
+        color: red;
         text-decoration: none;
         border: 0;
         @media screen and (min-width: $screen-sm-min) {
@@ -83,8 +83,8 @@ header > nav {
         }
       }
       a:hover {
-        color: white;
-      }
+        color: red /* white; */
+       }
     }
   }
 }
