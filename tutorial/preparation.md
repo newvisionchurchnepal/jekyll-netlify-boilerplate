@@ -1,9 +1,13 @@
 ---
 layout: blog1
 title: 
-permalink: /tutorial/preparation
+permalink: /tutorial/jekyll
 ---
+### how to use Jekyll template
+
+![home page]()
+
 
 ### ABC
 
-![folk button](/tutorial/img/folkbotton.png) 
+![folk button](/tutorial/img/folkbutton.png) 
