@@ -2,6 +2,8 @@
 
 - text: Home
   url: /
+# - text: Opinions
+#   url: /opinions
 - text: Opinions
   url: /opinions
 - text: Tutorial
