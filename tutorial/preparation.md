@@ -5,7 +5,7 @@ permalink: /tutorial/jekyll
 ---
 ### how to use Jekyll template
 
-![home page]()
+![home page](/tutorial/img/front.png)
 
 
 ### ABC
