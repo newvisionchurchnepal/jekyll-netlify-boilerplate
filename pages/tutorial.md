@@ -6,7 +6,7 @@ permalink: /tutorial
 
 
 
-[Preparation](/tutorial/preparation)
+[Jekyll Template](/tutorial/jekyll)
 
 ![folk button](/tutorial/img/folkbutton.png) 
 
