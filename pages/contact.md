@@ -6,6 +6,6 @@ permalink: /contact
 
 ### Contact
 
-#### Email:cheejon@yahoo.com
+#### Email:newvisionchurchnp@gmail.com
 
 #### W
