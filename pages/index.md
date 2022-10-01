@@ -4,6 +4,6 @@ title:
 permalink: /
 ---
 
-### This is sample home page test
+### welcome to our church website. 
 
-You can write contents in markdown format as you like.
+Thansing new vision church is protestant church located in likhu6, Nuwakot, Nepal. 
