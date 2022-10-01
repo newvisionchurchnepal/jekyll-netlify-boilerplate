@@ -6,6 +6,6 @@ permalink: /contact
 
 ### Contact
 
-#### Email:cheejon@yahoo.com
+#### Address: Somewhere Nuwakot
 
-#### W
+#### Emai: newvisionchurchnp@gmail.com
