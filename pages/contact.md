@@ -8,6 +8,6 @@ permalink: /contact
 
 #### Address: Somewhere Nuwakot
 
-#### Emai: newvisionchurchnp@gmail.com
+#### Email: newvisionchurchnp@gmail.com
 
-###### phohe: 
+###### Phone number: 
