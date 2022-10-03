@@ -6,6 +6,8 @@ permalink: /contact
 
 ![pastor's potrait](/assets/img/potrait.png)
 
+#### The potrait of Pastor
+
 
 #### Address: likhu-6, Nuwakot
 
