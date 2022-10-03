@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact 
 ---
 
-![pastor's potrait](/tutorial/img/front.png)
+![pastor's potrait](/tutorial/img/potrait.png)
 
 
 #### Address: likhu-6, Nuwakot
