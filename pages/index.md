@@ -4,9 +4,6 @@ title:
 permalink: /
 ---
 
-<div style="color:green">
-    Markdown inline css styles
-</div>  
 
 ### welcome to our church website. 
 
