@@ -22,6 +22,9 @@ permalink: /contact
 
 - This is test.
 
+div style="color:green">
+    Markdown inline css styles
+</div>
 
 
 #### Address: likhu-6, Nuwakot
