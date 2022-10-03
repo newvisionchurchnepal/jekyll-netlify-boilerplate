@@ -29,6 +29,6 @@ div style="color:green">
 
 #### Address: likhu-6, Nuwakot
 
-#### Email: newvisionchurchnp@gmail.com
+#### Email: newvisionchurchnp@gmail.co
 
 #### Phone number: 9841815312
