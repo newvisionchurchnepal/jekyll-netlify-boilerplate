@@ -2,7 +2,7 @@
 
 - text: Home
   url: /
-- text: Facebook
-  url: https://www.facebook.com
+#- text: Facebook
+#  url: https://www.facebook.com
 - text: Contact
   url: /contact
