@@ -22,13 +22,13 @@ permalink: /contact
 
 - This is test.
 
-div style="color:green">
+div style="color: green">
     Markdown inline css styles
 </div>
 
 
 #### Address: likhu-6, Nuwakot
 
-#### Email: newvisionchurchnp@gmail.co
+#### Email: newvisionchurchnp@gmail.com
 
 #### Phone number: 9841815312
