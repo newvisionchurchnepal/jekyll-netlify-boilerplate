@@ -11,27 +11,7 @@ permalink: /contact
     font-weight:700;
     font-size: 30px;
 }
-  
-.ul, ol {
-    padding: 0;
-    margin: 0;
-}
-.li {
-    line-height: 24px;
-}
-.li ul, li ul {
-    margin-left: 24px;
-}
-.p, ul, ol {
-    font-size: 16px;
-    line-height: 24px;
-    max-width: 540px;
-}
-.pre {
-    padding: 0px 24px;
-    max-width: 800px;
-    white-space: pre-wrap;
-}
+
 
 </style>
 
@@ -41,9 +21,15 @@ permalink: /contact
 
 - This is test.
 
+<div class="h2">
+    
+ this is test2.
+    
+</div>
+
 
 #### Address: likhu-6, Nuwakot
 
-## Email: newvisionchurchnp@gmail.com
+#### Email: newvisionchurchnp@gmail.com
 
 #### Phone number: 9841815312
