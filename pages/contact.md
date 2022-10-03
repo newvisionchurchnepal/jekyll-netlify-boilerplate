@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact 
-permalink: /contact
+permalink: /contact 
 ---
 
 ![pastor's potrait](/tutorial/img/portrait.png)
