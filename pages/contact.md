@@ -6,7 +6,7 @@ permalink: /contact
 
 
 <style>
-h2 {
+.green {
     color: green;
     font-weight:700;
     font-size: 30px;
@@ -21,7 +21,7 @@ h2 {
 
 - This is test.
 
-<div class="h2">
+<div class="green">
     
  this is test2.
     
