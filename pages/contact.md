@@ -5,7 +5,7 @@ permalink: /contact
 ---
 
 
-<div style="color: green">
+<div style="color:green">
     Markdown inline css styles
 </div>    
 
