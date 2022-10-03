@@ -6,7 +6,8 @@ permalink: /contact
 
 
 <style>
- .green {
+ 
+.green {
     color: green;
     font-weight:700;
     font-size: 30px;
