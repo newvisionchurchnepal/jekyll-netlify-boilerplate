@@ -10,8 +10,8 @@ permalink: /contact
 
 
 
-#### Address: likhu-6, Nuwakot
+#### Address: likhu-6, Nuwakot, Nepal
 
 #### Email: newvisionchurchnp@gmail.com
 
-#### Phone number: 9841815312
+#### Phone number: (977) 984-1815312
