@@ -4,19 +4,9 @@ title: Contact
 permalink: /contact 
 ---
 
-
-<div style="color:green">
-    Markdown inline css styles
-</div>    
-
-
-
-
 ![pastor's potrait](/assets/img/potrait.png)
 
 #### The potrait of Pastor
-
-- This is test.
 
 
 
