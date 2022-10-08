@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact 
 ---
 
-![pastor's potrait](/assets/img/potrait01.png)
+![pastor's potrait](/assets/img/potrait.png)
 
 #### The potrait of Pastor
 
