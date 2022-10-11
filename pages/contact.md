@@ -6,7 +6,7 @@ permalink: /contact
 
 ![pastor's potrait](/assets/img/potrait02.png)
 
-#### The name of Pastor
+#### Ps Timothy Bishunke
 
 
 
@@ -15,3 +15,4 @@ permalink: /contact
 #### Email: newvisionchurchnp@gmail.com
 
 #### Phone number: (977) 984-1815312
+
