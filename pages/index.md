@@ -14,4 +14,4 @@ Salvation of the Lord among the castes of all the villages, towns and cities of 
 
 #### Every Saturdsy 11:00AM
 
-#### Likehu6 Nuwakot 
+#### Likhu6 Nuwakot 
