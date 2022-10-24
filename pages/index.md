@@ -9,3 +9,9 @@ permalink: /
 
 New Vision Church is a protestant church located in likhu6, Nuwakot, Nepal. It was established on 2013 AD. The mission of NEW VISION CHURCH is
 Salvation of the Lord among the castes of all the villages, towns and cities of Nepal And to plant, teach, prepare leaders to preach the message of salvation and mobilizing local leaders for the Lord's work. First the Nepalese nation and then the gospel to the whole world Preaching, sending missionaries and planting churches.
+
+### The Service Time
+
+#### Every Saturdsy 11:00AM
+
+#### Likehu6 Nuwakot 
