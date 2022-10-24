@@ -7,11 +7,5 @@ permalink: /
 
 ### welcome to our church website. 
 
-The Thansing new vision church is a protestant church located in likhu6, Nuwakot, Nepal. 
-It was established on 2013 AD.
- The philosophy of NEW VISION CHURCH is
-Salvation of the Lord among the castes of all the villages, towns and cities of Nepal
-And to plant, teach, prepare leaders to preach the message of salvation
-and mobilizing local leaders for the Lord's work.
-First the Nepalese nation and then the gospel to the whole world
-Preaching, sending missionaries and planting churches.
+New Vision Church is a protestant church located in likhu6, Nuwakot, Nepal. It was established on 2013 AD. The mission of NEW VISION CHURCH is
+Salvation of the Lord among the castes of all the villages, towns and cities of Nepal And to plant, teach, prepare leaders to preach the message of salvation and mobilizing local leaders for the Lord's work. First the Nepalese nation and then the gospel to the whole world Preaching, sending missionaries and planting churches.
