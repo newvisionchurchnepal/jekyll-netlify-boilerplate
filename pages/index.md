@@ -12,6 +12,6 @@ Salvation of the Lord among the castes of all the villages, towns and cities of 
 
 ### The Service Time
 
-#### Every Saturdsy 11:00AM
+#### Every Saturday 11:00AM
 
 #### Likhu6 Nuwakot 
