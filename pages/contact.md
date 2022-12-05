@@ -6,11 +6,11 @@ permalink: /contact
 
 ![pastor's potrait](/assets/img/potrait02.png)
 
-#### Ps Timothy Bishunke
+#### Ps Timothy Bishunke(तिमोथी बिशुन्के)
 
 
 
-#### Address: likhu-6, Nuwakot, Nepal
+#### Address: Likhu-6, Nuwakot, Nepal
 
 #### Email: newvisionchurchnp@gmail.com
 
