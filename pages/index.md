@@ -17,3 +17,7 @@ Salvation of the Lord among the castes of all the villages, towns and cities of 
 #### Every Saturday 11:00AM
 
 #### Likhu-6,Nuwakot 
+
+### Facebook
+
+Please visit our [Facebook](https://www.facebook.com/people/Thansing-New-Vision-Church/100086504521333/) page, have a look at our church.
