@@ -1,6 +1,6 @@
 ---
 layout: default1
-title:
+title: Home | Thansing New Vision Church
 permalink: /
 ---
 
